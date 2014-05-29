@@ -1,5 +1,5 @@
 {
-	"name":        "kohana/core",
+	"name":        "meerkat/kohana-core",
 	"description": "Core system classes for the Kohana application framework",
 	"homepage":    "http://kohanaframework.org",
 	"license":     "BSD-3-Clause",
