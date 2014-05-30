@@ -22,8 +22,8 @@
 		"php":        ">=5.3.3"
 	},
 	"suggest": {
-		"ext-http":   "*",
 		"ext-curl":   "*",
+		"ext-http":   "*",
 		"ext-mcrypt": "*"
 	},
 	"extra": {
